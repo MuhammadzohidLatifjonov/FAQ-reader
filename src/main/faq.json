@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "question": "What is JavaScript?",
+    "ans": "JavaScript is a high-level, versatile programming language primarily used for web development. It allows developers to add interactivity, functionality, and dynamic elements to websites. Initially created to make web pages more interactive by enabling client-side scripts that interact with the user, JavaScript has since evolved into a multi-paradigm language that supports object-oriented, imperative, and functional programming styles."
+  },
+  {
+    "id": 2,
+    "question": "Is JavaScript hard to learn?",
+    "ans": "The difficulty of learning JavaScript can vary based on your prior programming experience, your learning style, and the complexity of the concepts you're trying to grasp."
+  },
+  {
+    "id": 3,
+    "question": "Is it possible to create a game in javascript?",
+    "ans": "Yes, it is absolutely possible to create games using JavaScript! In fact, JavaScript is widely used in game development, especially for web-based games. With the advancements in web technologies and the introduction of powerful frameworks and libraries, developers can create various types of games using JavaScript, ranging from simple 2D games to more complex and sophisticated 3D games."
+  },
+  {
+    "id": 4,
+    "question": "Are JavaScript and Java the same?",
+    "ans": "No, JavaScript and Java are not the same. They are two distinct programming languages with different purposes, syntax, and use cases."
+  },
+  {
+    "id": 5,
+    "question": "What programming language was JavaScript created with?",
+    "ans": "JavaScript was created using the programming language C. Brendan Eich, a software engineer, developed the initial version of JavaScript in 1995 while working at Netscape Communications Corporation. He was tasked with creating a scripting language for web pages in a short period of time."
+  },
+  {
+    "id": 6,
+    "question": "What is the advantage of JavaScript programming language over other programming languages?",
+    "ans": "JavaScript offers several advantages over other programming languages, particularly in the context of web development and certain types of applications."
+  },
+  {
+    "id": 7,
+    "question": "What can I do if I learn JavaScript?",
+    "ans": "Learning JavaScript opens up a wide range of opportunities and possibilities in the field of web development and beyond. Here are several things you can do once you learn JavaScript"
+  }
+]
